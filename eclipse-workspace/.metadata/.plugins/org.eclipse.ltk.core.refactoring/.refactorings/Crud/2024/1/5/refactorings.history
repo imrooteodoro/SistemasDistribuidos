@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Encapsulate field &apos;cad.com.Cadastro.users&apos; in &apos;cad.com.Cadastro&apos;&#x0A;- Original project: &apos;Crud&apos;&#x0A;- Original element: &apos;cad.com.Cadastro.users&apos;&#x0A;- Getter method name: &apos;getUsers&apos;&#x0A;- Setter method name: &apos;setUsers&apos;&#x0A;- Field visibility: &apos;public&apos;&#x0A;- Use getter and setter methods in declaring type" comments="false" declaring="true" description="Encapsulate field &apos;users&apos;" flags="589830" getter="getUsers" id="org.eclipse.jdt.ui.self.encapsulate" input="/src&lt;cad.com{Cadastro.java[Cadastro^users" insertion="-1" setter="setUsers" stamp="1706569180178" version="1.0" visibility="1"/>
+</session>
